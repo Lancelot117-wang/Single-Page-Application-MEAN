@@ -1,7 +1,6 @@
 # Mean
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6\
-This project was implemented with Angular, Node, Express and MongoDB\
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6, implemented with AngularJS, Node.js, Express.js and MongoDB\
 Run `ng install` dependencies are listed in package.json\
 Backend dependencies are listed in ./backend/package.json\
 
