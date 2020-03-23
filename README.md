@@ -1,6 +1,10 @@
-# Mean
+# MEAN
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6, implemented with AngularJS, Node.js, Express.js and MongoDB\
+This is a personal project implementing a full-stack single page application serving as a postboard, with functionality of basic authentication and authorization.
+
+# About
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6, implemented on AngularJS, Node.js, Express.js and MongoDB\
 \
 Run `ng install` dependencies are listed in ./package.json\
 \
